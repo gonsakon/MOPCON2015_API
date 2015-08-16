@@ -2,7 +2,7 @@
   "isSucc": true,
   "server": {
     "updateAppFlag": false,
-    "lastUpdate": "2015-08-16T12:13:10.025Z"
+    "lastUpdate": "2015-08-16T13:13:09.035Z"
   },
   "data": {
     "article": [
@@ -70,9 +70,9 @@
           "Website": "http://akdg.kktix.cc/",
           "fb": "https://www.facebook.com/groups/1416205511963346/"
         },
-        "title": "Android 高雄開發者社群",
-        "image": "http://mopcon.org/2015/images/community/akdg.png",
-        "content": "Android Kaohsiung Developer Group 從事 Android App、Embedded 及 Design 一起交流的園地，2014 首次聚會活動，目前活動活動時間為每月第三週的禮拜四 meet-up，歡迎對 Android 有興趣的朋友可以參與聚會。"
+        "title": "GDG Kaohsiung",
+        "image": "http://mopcon.org/2015/images/community/gdg.jpg",
+        "content": "Google Developer Group Kaohsiung (原Android高雄開發者社群) 從事 Android App、Embedded 及 Design 一起交流的園地，2014 首次聚會活動，目前活動活動時間為每月第三週的禮拜四 meet-up，歡迎對 Android 有興趣的朋友可以參與聚會。"
       }
     ]
   }
